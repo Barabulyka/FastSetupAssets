@@ -1,0 +1,11 @@
+{
+    "name": "com.barabulyka.fastsetupassets",
+    "version" : "1.0.0",
+    "displayName": "Fast Setup Assets",
+    "description": "A Unity package that provides a fast way to set up Assets in your project. It includes a custom editor window for easy configuration and management of assets.",
+    "author": {
+        "name" : "Barabulyka"
+    },
+    "changelogUrl": "",
+    "documentationUrl": ""
+}
